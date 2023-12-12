@@ -1,0 +1,9 @@
+.vscode
+.env
+.env_test
+dist/
+__pycache__/
+src/cactus_test/.chainlit/.langchain.db
+src/cactus_test/.chainlit/config.toml
+src/cactus_test/temp/
+src/cactus_test/chainlit.md
